@@ -1,0 +1,6 @@
+# tensorflow
+scapy
+numpy
+pandas
+scikit-learn
+psutil

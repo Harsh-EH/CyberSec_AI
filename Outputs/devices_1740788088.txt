@@ -1,0 +1,580 @@
+# Nmap 7.95 scan initiated Sat Mar  1 05:44:48 2025 as: nmap -sn -oN C:\\\\Users\\\\harsh\\\\OneDrive\\\\Desktop\\\\CyberSec_AI\\\\backend\\\\Outputs\\devices_1740788088.txt 192.168.112.0/21
+Nmap scan report for 192.168.112.1
+Host is up (0.0049s latency).
+MAC Address: 60:15:2B:1C:D8:13 (Palo Alto Networks)
+Nmap scan report for 192.168.112.11
+Host is up (0.013s latency).
+MAC Address: 20:9C:B4:C6:8B:4E (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.12
+Host is up (0.0060s latency).
+MAC Address: 34:3A:20:C8:90:04 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.13
+Host is up (0.029s latency).
+MAC Address: 48:B4:C3:CA:51:B0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.14
+Host is up (0.019s latency).
+MAC Address: 48:B4:C3:CA:71:B2 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.15
+Host is up (0.012s latency).
+MAC Address: 48:B4:C3:CA:89:4C (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.16
+Host is up (0.0050s latency).
+MAC Address: 48:B4:C3:CA:3A:64 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.17
+Host is up (0.0050s latency).
+MAC Address: 20:9C:B4:C6:86:40 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.18
+Host is up (0.030s latency).
+MAC Address: 20:9C:B4:C6:AC:C6 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.19
+Host is up (0.0070s latency).
+MAC Address: 20:9C:B4:C6:AF:B0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.20
+Host is up (0.040s latency).
+MAC Address: 20:9C:B4:C6:A9:DA (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.21
+Host is up (0.0040s latency).
+MAC Address: 20:9C:B4:C6:B0:7E (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.22
+Host is up (0.0030s latency).
+MAC Address: 20:9C:B4:C6:93:22 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.23
+Host is up (0.017s latency).
+MAC Address: 20:9C:B4:C6:A1:36 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.24
+Host is up (0.010s latency).
+MAC Address: 20:9C:B4:C6:90:F0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.38
+Host is up (0.0040s latency).
+MAC Address: 74:9E:75:CC:FB:32 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.39
+Host is up (0.034s latency).
+MAC Address: 74:9E:75:CC:FC:9E (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.41
+Host is up (0.021s latency).
+MAC Address: 34:3A:20:C8:91:C4 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.42
+Host is up (0.016s latency).
+MAC Address: 20:9C:B4:C6:B7:FC (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.43
+Host is up (0.011s latency).
+MAC Address: 20:9C:B4:C6:9E:F0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.44
+Host is up (0.014s latency).
+MAC Address: 48:B4:C3:CA:50:D6 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.45
+Host is up (0.0050s latency).
+MAC Address: 48:B4:C3:CA:74:70 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.47
+Host is up (0.0080s latency).
+MAC Address: 20:9C:B4:C6:A9:70 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.52
+Host is up (0.0030s latency).
+MAC Address: 20:9C:B4:C6:A8:A0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.53
+Host is up (0.0020s latency).
+MAC Address: 20:9C:B4:C6:93:A0 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.55
+Host is up (0.0020s latency).
+MAC Address: 20:9C:B4:C6:A1:52 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.57
+Host is up (0.0030s latency).
+MAC Address: 48:B4:C3:CA:81:6A (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.58
+Host is up (0.022s latency).
+MAC Address: 48:B4:C3:CA:3F:84 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.59
+Host is up (0.025s latency).
+MAC Address: 20:9C:B4:C6:B3:E2 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.60
+Host is up (0.018s latency).
+MAC Address: 40:ED:00:BC:2B:8D (TP-Link Limited)
+Nmap scan report for 192.168.112.61
+Host is up (0.011s latency).
+MAC Address: BC:5E:33:AC:05:91 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.66
+Host is up (0.0080s latency).
+MAC Address: BC:5E:33:AC:05:8E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.67
+Host is up (0.0050s latency).
+MAC Address: 54:F0:B1:CC:57:B6 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.68
+Host is up (0.047s latency).
+MAC Address: BC:5E:33:AC:05:7C (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.69
+Host is up (0.039s latency).
+MAC Address: 54:F0:B1:CC:5C:16 (Aruba, a Hewlett Packard Enterprise Company)
+Nmap scan report for 192.168.112.70
+Host is up (0.029s latency).
+MAC Address: E0:CA:3C:A2:52:3D (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.75
+Host is up (0.041s latency).
+MAC Address: BC:5E:33:9C:64:65 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.76
+Host is up (0.017s latency).
+MAC Address: BC:5E:33:9C:64:3E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.78
+Host is up (0.0060s latency).
+MAC Address: BC:5E:33:9C:64:9E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.79
+Host is up (0.061s latency).
+MAC Address: E0:BA:AD:F9:1A:43 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.80
+Host is up (0.055s latency).
+MAC Address: BC:5E:33:AC:05:85 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.82
+Host is up (0.0050s latency).
+MAC Address: E0:CA:3C:A2:52:49 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.84
+Host is up (0.018s latency).
+MAC Address: E0:BA:AD:F9:19:2B (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.86
+Host is up (0.0030s latency).
+MAC Address: BC:5E:33:AC:05:8D (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.87
+Host is up (0.012s latency).
+MAC Address: BC:5E:33:AC:05:92 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.92
+Host is up (0.0050s latency).
+MAC Address: E0:CA:3C:96:BC:B8 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.96
+Host is up (0.0050s latency).
+MAC Address: BC:5E:33:AC:05:4E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.98
+Host is up (0.0040s latency).
+MAC Address: BC:5E:33:AC:05:88 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.100
+Host is up (0.0090s latency).
+MAC Address: BC:5E:33:AC:05:75 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.103
+Host is up (0.016s latency).
+MAC Address: BC:5E:33:AC:05:94 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.109
+Host is up (0.018s latency).
+MAC Address: E0:CA:3C:A2:52:38 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.111
+Host is up (0.0040s latency).
+MAC Address: E0:CA:3C:A2:52:3C (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.113
+Host is up (0.014s latency).
+MAC Address: BC:5E:33:9C:64:85 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.115
+Host is up (0.020s latency).
+MAC Address: BC:5E:33:9C:64:8F (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.119
+Host is up (0.0073s latency).
+MAC Address: BC:5E:33:AC:05:86 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.121
+Host is up (0.0040s latency).
+MAC Address: BC:5E:33:AC:05:80 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.123
+Host is up (0.033s latency).
+MAC Address: E0:CA:3C:A2:52:3B (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.127
+Host is up (0.0050s latency).
+MAC Address: BC:5E:33:AC:05:37 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.137
+Host is up (0.0050s latency).
+MAC Address: BC:5E:33:AC:05:99 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.140
+Host is up (0.10s latency).
+MAC Address: 70:66:55:0F:52:BF (AzureWave Technology)
+Nmap scan report for 192.168.112.141
+Host is up (0.0070s latency).
+MAC Address: BC:5E:33:AC:05:90 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.144
+Host is up (0.0050s latency).
+MAC Address: BC:5E:33:AC:05:7E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.146
+Host is up (0.030s latency).
+MAC Address: BC:5E:33:9C:64:95 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.165
+Host is up.
+MAC Address: FC:44:82:CF:29:F7 (Intel Corporate)
+Nmap scan report for 192.168.112.167
+Host is up (0.0020s latency).
+MAC Address: BC:5E:33:9C:64:87 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.171
+Host is up (0.0030s latency).
+MAC Address: BC:5E:33:AC:05:38 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.172
+Host is up (0.0040s latency).
+MAC Address: 5C:35:48:1F:FC:F3 (Aditya Infotech)
+Nmap scan report for 192.168.112.173
+Host is up (0.0068s latency).
+MAC Address: BC:5E:33:AC:05:7F (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.175
+Host is up (0.0030s latency).
+MAC Address: BC:5E:33:AC:05:9B (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.179
+Host is up (0.022s latency).
+MAC Address: BC:5E:33:AC:05:87 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.181
+Host is up (0.0070s latency).
+MAC Address: BC:5E:33:AC:05:98 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.184
+Host is up (0.0020s latency).
+MAC Address: E0:CA:3C:A2:52:3A (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.195
+Host is up (0.0020s latency).
+MAC Address: BC:5E:33:AC:05:35 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.196
+Host is up (0.017s latency).
+MAC Address: E0:CA:3C:96:BD:CA (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.201
+Host is up (0.0060s latency).
+MAC Address: E0:CA:3C:96:BC:CB (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.203
+Host is up (0.0090s latency).
+MAC Address: BC:5E:33:AC:05:89 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.204
+Host is up (0.0060s latency).
+MAC Address: C0:56:27:2B:A9:E4 (Belkin International)
+Nmap scan report for 192.168.112.206
+Host is up (0.0080s latency).
+MAC Address: BC:5E:33:AC:05:8C (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.207
+Host is up (0.0020s latency).
+MAC Address: BC:5E:33:9C:64:98 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.208
+Host is up (0.0080s latency).
+MAC Address: BC:5E:33:AC:05:81 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.209
+Host is up (0.0070s latency).
+MAC Address: BC:5E:33:9C:64:A6 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.210
+Host is up (0.0053s latency).
+MAC Address: E0:CA:3C:A2:52:39 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.211
+Host is up (0.029s latency).
+MAC Address: BC:5E:33:9C:64:97 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.215
+Host is up (0.023s latency).
+MAC Address: E0:CA:3C:A2:52:37 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.217
+Host is up (0.017s latency).
+MAC Address: BC:5E:33:9C:64:86 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.220
+Host is up (0.010s latency).
+MAC Address: E0:CA:3C:96:BC:C7 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.224
+Host is up (0.0070s latency).
+MAC Address: BC:5E:33:9C:64:99 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.235
+Host is up (0.0030s latency).
+MAC Address: E0:BA:AD:F9:1A:9D (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.236
+Host is up (0.012s latency).
+MAC Address: BC:5E:33:9C:64:8C (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.237
+Host is up (0.0050s latency).
+MAC Address: BC:5E:33:9C:64:96 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.238
+Host is up (0.014s latency).
+MAC Address: BC:5E:33:9C:64:92 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.239
+Host is up (0.0070s latency).
+MAC Address: E0:CA:3C:8A:C1:C9 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.240
+Host is up (0.016s latency).
+MAC Address: BC:5E:33:9C:64:8E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.241
+Host is up (0.0067s latency).
+MAC Address: BC:5E:33:AC:05:51 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.242
+Host is up (0.0030s latency).
+MAC Address: BC:5E:33:9C:64:7F (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.243
+Host is up (0.010s latency).
+MAC Address: BC:5E:33:9C:64:90 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.244
+Host is up (0.0020s latency).
+MAC Address: E0:CA:3C:A2:52:36 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.245
+Host is up (0.016s latency).
+MAC Address: E0:CA:3C:96:BC:D6 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.246
+Host is up (0.019s latency).
+MAC Address: BC:5E:33:9C:64:94 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.247
+Host is up (0.0020s latency).
+MAC Address: BC:5E:33:9C:64:9A (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.248
+Host is up (0.0040s latency).
+MAC Address: BC:5E:33:9C:64:A1 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.249
+Host is up (0.010s latency).
+MAC Address: BC:5E:33:9C:64:89 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.251
+Host is up (0.010s latency).
+MAC Address: BC:5E:33:AC:05:96 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.252
+Host is up (0.0074s latency).
+MAC Address: E0:CA:3C:A2:52:3E (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.253
+Host is up (0.0020s latency).
+MAC Address: BC:5E:33:9C:64:91 (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.254
+Host is up (0.0090s latency).
+MAC Address: BC:5E:33:9C:64:9C (Hangzhou Hikvision Digital Technology)
+Nmap scan report for 192.168.112.255
+Host is up (0.054s latency).
+MAC Address: 6E:6F:16:E3:E5:1B (Unknown)
+Nmap scan report for 192.168.113.9
+Host is up (0.17s latency).
+MAC Address: 10:68:38:A3:F3:53 (AzureWave Technology)
+Nmap scan report for 192.168.113.16
+Host is up (0.054s latency).
+MAC Address: E4:94:3A:3A:0E:7D (Unknown)
+Nmap scan report for 192.168.113.23
+Host is up (0.086s latency).
+MAC Address: 34:6F:24:D9:F8:B3 (AzureWave Technology)
+Nmap scan report for 192.168.113.87
+Host is up (0.080s latency).
+MAC Address: 00:41:0E:69:C0:EF (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.113.88
+Host is up (0.073s latency).
+MAC Address: E8:FB:1C:5F:6F:1E (AzureWave Technology)
+Nmap scan report for 192.168.113.95
+Host is up.
+MAC Address: A0:D3:65:97:1D:50 (Intel Corporate)
+Nmap scan report for 192.168.113.99
+Host is up (0.10s latency).
+MAC Address: 42:E1:6E:25:9C:E8 (Unknown)
+Nmap scan report for 192.168.113.124
+Host is up (0.063s latency).
+MAC Address: B4:0E:DE:95:45:1B (Intel Corporate)
+Nmap scan report for 192.168.113.225
+Host is up (0.077s latency).
+MAC Address: 52:79:85:4F:69:3E (Unknown)
+Nmap scan report for 192.168.113.234
+Host is up (0.058s latency).
+MAC Address: 70:08:94:3C:CE:55 (Unknown)
+Nmap scan report for 192.168.114.15
+Host is up (0.060s latency).
+MAC Address: A2:D2:A4:C6:9D:2C (Unknown)
+Nmap scan report for 192.168.114.49
+Host is up (0.060s latency).
+MAC Address: 06:43:C8:5C:63:D5 (Unknown)
+Nmap scan report for 192.168.114.50
+Host is up (0.11s latency).
+MAC Address: 76:94:00:3B:40:A1 (Unknown)
+Nmap scan report for 192.168.114.66
+Host is up (0.13s latency).
+MAC Address: C0:BF:BE:67:AE:06 (Unknown)
+Nmap scan report for 192.168.114.95
+Host is up (0.0050s latency).
+MAC Address: 00:0C:29:3A:3D:61 (VMware)
+Nmap scan report for 192.168.114.97
+Host is up (0.10s latency).
+MAC Address: F8:E7:A0:24:4D:29 (vivo Mobile Communication)
+Nmap scan report for 192.168.114.98
+Host is up (0.030s latency).
+MAC Address: B8:1E:A4:18:18:93 (Liteon Technology)
+Nmap scan report for 192.168.114.131
+Host is up (0.036s latency).
+MAC Address: E8:BF:B8:B4:99:5C (Intel Corporate)
+Nmap scan report for 192.168.114.166
+Host is up (0.11s latency).
+MAC Address: 40:1A:58:0F:DD:C4 (Wistron Neweb)
+Nmap scan report for 192.168.114.205
+Host is up (0.16s latency).
+MAC Address: 96:AF:95:8F:80:EA (Unknown)
+Nmap scan report for 192.168.114.211
+Host is up (0.13s latency).
+MAC Address: E0:2E:0B:3E:E9:41 (Intel Corporate)
+Nmap scan report for 192.168.114.218
+Host is up (0.071s latency).
+MAC Address: 10:B1:DF:97:3E:7F (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.114.245
+Host is up.
+MAC Address: A0:E7:0B:DA:A5:39 (Intel Corporate)
+Nmap scan report for 192.168.114.251
+Host is up (0.0060s latency).
+MAC Address: 2C:3B:70:F9:3F:B1 (AzureWave Technology)
+Nmap scan report for 192.168.115.20
+Host is up (0.11s latency).
+MAC Address: FE:7A:DB:9D:DD:5E (Unknown)
+Nmap scan report for 192.168.115.31
+Host is up.
+MAC Address: AC:12:03:D1:97:32 (Intel Corporate)
+Nmap scan report for 192.168.115.38
+Host is up (0.0020s latency).
+MAC Address: 00:17:61:11:72:48 (Private)
+Nmap scan report for 192.168.115.43
+Host is up (0.065s latency).
+MAC Address: 16:DF:8B:60:CB:28 (Unknown)
+Nmap scan report for 192.168.115.46
+Host is up (0.070s latency).
+MAC Address: 28:11:A8:E9:23:A2 (Intel Corporate)
+Nmap scan report for 192.168.115.69
+Host is up (0.086s latency).
+MAC Address: AE:79:9E:86:B7:03 (Unknown)
+Nmap scan report for 192.168.115.74
+Host is up (0.054s latency).
+MAC Address: 50:5A:65:C3:E0:45 (AzureWave Technology)
+Nmap scan report for 192.168.115.93
+Host is up (0.021s latency).
+MAC Address: DE:4F:19:9C:5C:48 (Unknown)
+Nmap scan report for 192.168.115.120
+Host is up (0.11s latency).
+MAC Address: 56:24:45:54:42:0F (Unknown)
+Nmap scan report for 192.168.115.128
+Host is up (0.18s latency).
+MAC Address: 12:93:5D:61:9F:74 (Unknown)
+Nmap scan report for 192.168.115.132
+Host is up (0.075s latency).
+MAC Address: 1A:66:85:D4:11:0C (Unknown)
+Nmap scan report for 192.168.115.145
+Host is up (0.063s latency).
+MAC Address: DC:46:28:1F:55:5E (Intel Corporate)
+Nmap scan report for 192.168.115.156
+Host is up (0.037s latency).
+MAC Address: D6:FD:E5:48:A4:CA (Unknown)
+Nmap scan report for 192.168.115.187
+Host is up (0.21s latency).
+MAC Address: 16:A3:2B:8D:E2:36 (Unknown)
+Nmap scan report for 192.168.115.196
+Host is up (0.14s latency).
+MAC Address: 76:58:AA:05:F2:36 (Unknown)
+Nmap scan report for 192.168.115.243
+Host is up (0.029s latency).
+MAC Address: 58:CD:C9:04:C5:BD (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.116.3
+Host is up (0.034s latency).
+MAC Address: BC:03:58:51:04:7D (Intel Corporate)
+Nmap scan report for 192.168.116.37
+Host is up (0.12s latency).
+MAC Address: 0C:9A:3C:46:DE:D5 (Intel Corporate)
+Nmap scan report for 192.168.116.46
+Host is up (0.069s latency).
+MAC Address: D4:54:8B:1D:12:FD (Intel Corporate)
+Nmap scan report for 192.168.116.77
+Host is up (0.012s latency).
+MAC Address: 00:00:85:DA:EA:1D (Canon)
+Nmap scan report for 192.168.116.80
+Host is up.
+MAC Address: 98:BD:80:20:EA:EA (Intel Corporate)
+Nmap scan report for 192.168.116.103
+Host is up (0.088s latency).
+MAC Address: A0:59:50:5E:5F:A6 (Intel Corporate)
+Nmap scan report for 192.168.116.112
+Host is up (0.070s latency).
+MAC Address: 50:C2:E8:D3:40:6B (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.116.128
+Host is up (0.18s latency).
+MAC Address: D2:A6:89:5D:00:36 (Unknown)
+Nmap scan report for 192.168.116.140
+Host is up (0.11s latency).
+MAC Address: A2:38:CC:FC:2A:78 (Unknown)
+Nmap scan report for 192.168.116.158
+Host is up (0.063s latency).
+MAC Address: 26:67:47:82:B9:C3 (Unknown)
+Nmap scan report for 192.168.116.201
+Host is up (0.039s latency).
+MAC Address: F8:54:F6:4F:7E:CB (AzureWave Technology)
+Nmap scan report for 192.168.116.223
+Host is up (0.083s latency).
+MAC Address: 00:21:6A:F8:E0:49 (Intel Corporate)
+Nmap scan report for 192.168.116.239
+Host is up (0.027s latency).
+MAC Address: 4E:19:4F:9C:50:7B (Unknown)
+Nmap scan report for 192.168.116.255
+Host is up (0.057s latency).
+MAC Address: B8:1E:A4:D3:86:79 (Liteon Technology)
+Nmap scan report for 192.168.117.7
+Host is up (0.14s latency).
+MAC Address: 62:65:C6:86:4C:1B (Unknown)
+Nmap scan report for 192.168.117.22
+Host is up (0.090s latency).
+MAC Address: 50:5A:65:FB:1F:40 (AzureWave Technology)
+Nmap scan report for 192.168.117.64
+Host is up (0.013s latency).
+MAC Address: C0:56:27:2B:A7:11 (Belkin International)
+Nmap scan report for 192.168.117.79
+Host is up.
+MAC Address: C8:5E:A9:D7:A2:5D (Intel Corporate)
+Nmap scan report for 192.168.117.95
+Host is up (0.072s latency).
+MAC Address: 60:E9:AA:2C:86:B5 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.117.132
+Host is up (0.062s latency).
+MAC Address: 9C:2E:AC:F4:E7:A1 (Unknown)
+Nmap scan report for 192.168.117.206
+Host is up (0.0030s latency).
+MAC Address: C0:56:27:2B:A7:83 (Belkin International)
+Nmap scan report for 192.168.118.7
+Host is up (0.043s latency).
+MAC Address: 38:38:4B:63:36:57 (vivo Mobile Communication)
+Nmap scan report for 192.168.118.32
+Host is up (0.0040s latency).
+MAC Address: 5C:35:48:3D:9D:9C (Aditya Infotech)
+Nmap scan report for 192.168.118.67
+Host is up (0.049s latency).
+MAC Address: 34:6F:24:C5:F7:DD (AzureWave Technology)
+Nmap scan report for 192.168.118.95
+Host is up (0.058s latency).
+MAC Address: 6A:4A:16:F7:1A:F6 (Unknown)
+Nmap scan report for 192.168.118.97
+Host is up (0.051s latency).
+MAC Address: 9C:2F:9D:60:FE:F5 (Liteon Technology)
+Nmap scan report for 192.168.118.121
+Host is up (0.049s latency).
+MAC Address: D0:39:57:EF:32:71 (Liteon Technology)
+Nmap scan report for 192.168.118.178
+Host is up (1.0s latency).
+MAC Address: E0:2E:0B:D1:40:25 (Intel Corporate)
+Nmap scan report for 192.168.118.188
+Host is up (0.077s latency).
+MAC Address: 92:BC:DC:89:A1:B6 (Unknown)
+Nmap scan report for 192.168.118.193
+Host is up (0.047s latency).
+MAC Address: 4C:D5:77:AC:05:9B (Chongqing Fugui Electronics)
+Nmap scan report for 192.168.118.204
+Host is up (0.10s latency).
+MAC Address: E8:65:38:17:D8:71 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.118.205
+Host is up (0.27s latency).
+MAC Address: 38:D5:7A:30:C5:61 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 192.168.118.208
+Host is up (0.060s latency).
+MAC Address: C0:BF:BE:93:CB:62 (Unknown)
+Nmap scan report for 192.168.118.216
+Host is up (0.089s latency).
+MAC Address: 50:28:4A:E8:54:68 (Intel Corporate)
+Nmap scan report for 192.168.118.228
+Host is up (0.094s latency).
+MAC Address: 0E:3E:84:A3:48:2E (Unknown)
+Nmap scan report for 192.168.119.5
+Host is up (0.086s latency).
+MAC Address: 50:5A:65:E8:0D:1D (AzureWave Technology)
+Nmap scan report for 192.168.119.8
+Host is up (0.13s latency).
+MAC Address: A0:C5:89:EF:CC:7A (Intel Corporate)
+Nmap scan report for 192.168.119.15
+Host is up (0.11s latency).
+MAC Address: 8E:04:E4:B7:3A:CE (Unknown)
+Nmap scan report for 192.168.119.22
+Host is up (0.019s latency).
+MAC Address: F6:62:A7:32:5C:BE (Unknown)
+Nmap scan report for 192.168.119.31
+Host is up (0.11s latency).
+MAC Address: 94:BB:43:5C:18:C2 (AzureWave Technology)
+Nmap scan report for 192.168.119.44
+Host is up (0.11s latency).
+MAC Address: 74:D8:3E:82:56:90 (Intel Corporate)
+Nmap scan report for 192.168.119.46
+Host is up (0.11s latency).
+MAC Address: DC:41:A9:6C:F0:E3 (Intel Corporate)
+Nmap scan report for 192.168.119.78
+Host is up (0.099s latency).
+MAC Address: 40:1A:58:24:6A:0C (Wistron Neweb)
+Nmap scan report for 192.168.119.117
+Host is up (0.12s latency).
+MAC Address: 36:32:59:21:1D:B1 (Unknown)
+Nmap scan report for 192.168.119.130
+Host is up (0.040s latency).
+MAC Address: 72:EE:6F:C8:B4:B2 (Unknown)
+Nmap scan report for 192.168.119.25
+Host is up.
+# Nmap done at Sat Mar  1 05:45:27 2025 -- 2048 IP addresses (193 hosts up) scanned in 38.86 seconds

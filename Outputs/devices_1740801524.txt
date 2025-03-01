@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Sat Mar  1 09:28:44 2025 as: nmap -sn -oN Outputs\\devices_1740801524.txt 192.168.112.0/21

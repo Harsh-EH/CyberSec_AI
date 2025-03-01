@@ -1,0 +1,15 @@
+<!-- test.html -->
+<!DOCTYPE html>
+<html>
+<body>
+  <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+  <script>
+    const socket = io('http://localhost:5000');
+    socket.on('connect', () => console.log('Connected:', socket.id));
+    socket.on('connected', (data) => console.log(data));
+    socket.on('connect_error', (err) => console.error('Error:', err));
+    socket.on('packet_data', (data) => console.log('Packet Data:', data));
+    socket.on('ai_insights', (data) => console.log('AI Insights:', data));
+  </script>
+</body>
+</html>
